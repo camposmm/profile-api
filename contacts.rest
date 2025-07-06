@@ -1,0 +1,5 @@
+GET https://yourapp.onrender.com/contacts
+
+###
+
+GET https://yourapp.onrender.com/contacts/PASTE_CONTACT_ID_HERE
